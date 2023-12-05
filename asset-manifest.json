@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/product3/static/css/main.b1dec515.css",
+    "main.js": "/product3/static/js/main.a3eefe95.js",
+    "static/js/787.911c594c.chunk.js": "/product3/static/js/787.911c594c.chunk.js",
+    "static/media/pump-shop-image.jpg": "/product3/static/media/pump-shop-image.92b429aea4f545cfa876.jpg",
+    "index.html": "/product3/index.html",
+    "main.b1dec515.css.map": "/product3/static/css/main.b1dec515.css.map",
+    "main.a3eefe95.js.map": "/product3/static/js/main.a3eefe95.js.map",
+    "787.911c594c.chunk.js.map": "/product3/static/js/787.911c594c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1dec515.css",
+    "static/js/main.a3eefe95.js"
+  ]
+}
